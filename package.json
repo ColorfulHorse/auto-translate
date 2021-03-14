@@ -61,7 +61,7 @@
     "compression-webpack-plugin": "^5.0.1",
     "concurrently": "^5.2.0",
     "copy-webpack-plugin": "^6.1.0",
-    "electron": "10.1.2",
+    "electron": "10.2.0",
     "electron-is-dev": "^1.2.0",
     "electron-rebuild": "^1.11.0",
     "eslint": "^6.7.2",
